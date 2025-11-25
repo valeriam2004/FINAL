@@ -16,5 +16,10 @@ boton.addEventListener("click",function(evento){
         telefono:cajaTelefono.valvue,
         contraseña:cajaContraseña.valvue,
     }
+    Swal.fire({
+  title: "Bienvenkido!",
+  text: "Has sido registrado!",
+  icon: "success"
+});
 
 })

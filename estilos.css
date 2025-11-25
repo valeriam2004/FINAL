@@ -1,0 +1,26 @@
+.colorPrincipa{
+    background-color: #831d1d
+}
+.btn-primary{
+    background-color: #831d1d;
+    border-color: black;
+}
+.btn-primary.hover{
+    background-color: pink;
+    border-color: bisque;
+}
+.fondo{
+    background-image: url(".//fondo.png");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+}
+.fondo2{
+    background-image: url(".//fondo2.png");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+} 
+    
